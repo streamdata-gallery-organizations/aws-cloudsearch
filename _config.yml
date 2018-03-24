@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-cloudsearch.api.streamdata.gallery
+title: Streamdata Gallery AWS CloudSearch
+url: aws-cloudsearch.streamdata.gallery
 tag: AWS CloudSearch
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-cloudsearch
 github_branch: master
 collections:
