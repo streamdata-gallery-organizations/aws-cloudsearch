@@ -609,7 +609,7 @@ paths:
           $ref: '#/definitions/holder'
       - in: body
         name: field_name
-        description: "\tSpecifies a field within the document being added"
+        description: Specifies a field within the document being added
         schema:
           $ref: '#/definitions/holder'
       - in: body
