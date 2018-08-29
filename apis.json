@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AWS CloudSearch",
+	"description": "This is a repository of aws cloudsearch APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/aws-cloudsearch.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://aws-cloudsearch.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AWS CloudSearch",
+			"x-api-slug": "aws-cloudsearch",
+			"description": "Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective to set up, manage, and scale a search solution for your website or application.Amazon CloudSearch supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial search. For more information, see Benefits.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonCloudSearch.png",
+			"humanURL": "https://aws.amazon.com/cloudsearch/",
+			"baseURL": "https:///",
+			"tags": "AWS CloudSearch",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-cloudsearch/master/_listings/aws-cloudsearch/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AWS CloudSearch",
+	"include": [
+		{
+			"name": "AWS CloudSearch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-cloudsearch/master/_listings/aws-cloudsearch/apis.yaml"
+		}
+	]
+}
